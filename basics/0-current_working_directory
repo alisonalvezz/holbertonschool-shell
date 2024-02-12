@@ -1,2 +1,2 @@
 #!/bin/bash
-timeout 30 bash -c pwd
+bash -c pwd
